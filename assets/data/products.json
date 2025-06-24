@@ -1,0 +1,277 @@
+[
+  {
+    "id": "plinths-modern-white-80mm",
+    "category": "Напольные плинтусы",
+    "name": "Плинтус напольный \"Модерн\" Белый, 80мм",
+    "price": "2 500",
+    "priceUnit": "тг / метр погонный",
+    "shortDescription": "Элегантный и прочный напольный плинтус \"Модерн\" высотой 80 мм. Изготовлен из ударопрочного дюрополимера, готов под покраску в любой цвет.",
+    "mainImage": "products/plinths/plinths-modern-white-80mm/main.jpg",
+    "thumbnails": [
+      "products/plinths/plinths-modern-white-80mm/main.jpg",
+      "products/plinths/plinths-modern-white-80mm/thumb1.jpg",
+      "products/plinths/plinths-modern-white-80mm/thumb2.jpg"
+    ],
+    "imageAlts": ["Плинтус Модерн Белый 80мм - основной вид", "Плинтус Модерн Белый 80мм - деталь", "Плинтус Модерн Белый 80мм - в интерьере"],
+    "downloadLink3D": "https://docs.google.com/uc?export=download&id=ВАШ_ID_ФАЙЛА_ПЛИНТУСА_1",
+    "characteristics": [
+      {"label": "Материал", "value": "Дюрополимер высокой плотности"},
+      {"label": "Высота", "value": "80 мм"}, {"label": "Толщина", "value": "15 мм"},
+      {"label": "Длина", "value": "2000 мм (2 метра)"}, {"label": "Цвет", "value": "Белый (грунтованный, под покраску)"},
+      {"label": "Артикул", "value": "DP-MW-080"}
+    ],
+    "fullDescription": "<p>Напольный плинтус \"Модерн\" – это сочетание лаконичного дизайна и превосходных эксплуатационных качеств...</p>"
+  },
+  {
+    "id": "plinths-classic-cream-100mm",
+    "category": "Напольные плинтусы",
+    "name": "Плинтус напольный \"Классика\" Кремовый, 100мм",
+    "price": "3 200",
+    "priceUnit": "тг / метр погонный",
+    "shortDescription": "Изысканный классический плинтус высотой 100 мм кремового цвета. Придаст интерьеру благородный вид.",
+    "mainImage": "products/plinths/plinths-classic-cream-100mm/main.jpg",
+    "thumbnails": ["products/plinths/plinths-classic-cream-100mm/main.jpg", "products/plinths/plinths-classic-cream-100mm/thumb1.jpg"],
+    "imageAlts": ["Плинтус Классика Кремовый 100мм - вид", "Плинтус Классика Кремовый 100мм - профиль"],
+    "downloadLink3D": "https://docs.google.com/uc?export=download&id=ВАШ_ID_ФАЙЛА_ПЛИНТУСА_2",
+    "characteristics": [
+      {"label": "Материал", "value": "МДФ ламинированный"}, {"label": "Высота", "value": "100 мм"},
+      {"label": "Толщина", "value": "18 мм"}, {"label": "Длина", "value": "2400 мм"}, {"label": "Цвет", "value": "Кремовый (RAL 9001)"},
+      {"label": "Артикул", "value": "MDF-CL-100CR"}
+    ],
+    "fullDescription": "<p>Плинтус \"Классика\" добавит вашему интерьеру нотку элегантности и завершенности...</p>"
+  },
+  {
+    "id": "plinths-minimal-anthracite-60mm",
+    "category": "Напольные плинтусы",
+    "name": "Плинтус напольный \"Минимал\" Антрацит, 60мм",
+    "price": "2 800",
+    "priceUnit": "тг / метр погонный",
+    "shortDescription": "Стильный минималистичный плинтус высотой 60 мм в цвете антрацит. Идеален для современных интерьеров.",
+    "mainImage": "products/plinths/plinths-minimal-anthracite-60mm/main.jpg",
+    "thumbnails": ["products/plinths/plinths-minimal-anthracite-60mm/main.jpg"],
+    "imageAlts": ["Плинтус Минимал Антрацит 60мм"],
+    "downloadLink3D": "",
+    "characteristics": [
+      {"label": "Материал", "value": "Алюминий"}, {"label": "Высота", "value": "60 мм"},
+      {"label": "Толщина", "value": "10 мм"}, {"label": "Длина", "value": "2500 мм"}, {"label": "Цвет", "value": "Антрацит (RAL 7016)"},
+      {"label": "Артикул", "value": "ALU-MIN-060AN"}
+    ],
+    "fullDescription": "<p>Алюминиевый плинтус \"Минимал\" – это современное решение для тех, кто ценит строгость линий и долговечность материалов...</p>"
+  },
+  {
+    "id": "molding-classic-pattern-50mm",
+    "category": "Стеновые молдинги",
+    "name": "Молдинг стеновой \"Классика\" с узором, 50мм",
+    "price": "1 800",
+    "priceUnit": "тг / метр погонный",
+    "shortDescription": "Изящный стеновой молдинг с классическим узором. Преобразит ваши стены, добавив им утонченности.",
+    "mainImage": "products/moldings/molding-classic-pattern-50mm/main.jpg",
+    "thumbnails": ["products/moldings/molding-classic-pattern-50mm/main.jpg", "products/moldings/molding-classic-pattern-50mm/thumb1.jpg"],
+    "imageAlts": ["Молдинг Классика с узором - основной вид", "Молдинг Классика с узором - деталь"],
+    "downloadLink3D": "https://docs.google.com/uc?export=download&id=ВАШ_ID_ФАЙЛА_МОЛДИНГА_1",
+    "characteristics": [
+      {"label": "Материал", "value": "Полиуретан"}, {"label": "Высота", "value": "50 мм"},
+      {"label": "Длина", "value": "2000 мм"}, {"label": "Тип", "value": "С узором (флористический)"},
+      {"label": "Артикул", "value": "PU-MCL-050F"}
+    ],
+    "fullDescription": "<p>Классический стеновой молдинг с флористическим узором добавит изысканности любому помещению...</p>"
+  },
+  {
+    "id": "molding-geometric-smooth-70mm",
+    "category": "Стеновые молдинги",
+    "name": "Молдинг стеновой \"Геометрия\" гладкий, 70мм",
+    "price": "2 100",
+    "priceUnit": "тг / метр погонный",
+    "shortDescription": "Современный гладкий молдинг высотой 70мм для создания четких линий и акцентов на стенах.",
+    "mainImage": "products/moldings/molding-geometric-smooth-70mm/main.jpg",
+    "thumbnails": ["products/moldings/molding-geometric-smooth-70mm/main.jpg", "products/moldings/molding-geometric-smooth-70mm/thumb1.jpg"],
+    "imageAlts": ["Молдинг Геометрия гладкий 70мм - вид", "Молдинг Геометрия в интерьере"],
+    "downloadLink3D": "https://docs.google.com/uc?export=download&id=ВАШ_ID_ФАЙЛА_МОЛДИНГА_2",
+    "characteristics": [
+      {"label": "Материал", "value": "Дюрополимер"}, {"label": "Высота", "value": "70 мм"},
+      {"label": "Толщина", "value": "15 мм"}, {"label": "Длина", "value": "2000 мм"}, {"label": "Тип", "value": "Гладкий, прямой профиль"},
+      {"label": "Артикул", "value": "DP-MGS-070"}
+    ],
+    "fullDescription": "<p>Молдинг \"Геометрия\" идеально подходит для современных и минималистичных интерьеров...</p>"
+  },
+  {
+    "id": "molding-flexible-curve-30mm",
+    "category": "Стеновые молдинги",
+    "name": "Молдинг гибкий \"Криволинейный\", 30мм",
+    "price": "3 500",
+    "priceUnit": "тг / метр погонный",
+    "shortDescription": "Гибкий молдинг для оформления криволинейных поверхностей, арок и круглых стен. Легко гнется.",
+    "mainImage": "products/moldings/molding-flexible-curve-30mm/main.jpg",
+    "thumbnails": ["products/moldings/molding-flexible-curve-30mm/main.jpg"],
+    "imageAlts": ["Гибкий молдинг Криволинейный 30мм"],
+    "downloadLink3D": "",
+    "characteristics": [
+      {"label": "Материал", "value": "Эластичный полиуретан (Flex)"}, {"label": "Высота", "value": "30 мм"},
+      {"label": "Минимальный радиус изгиба", "value": "300 мм"}, {"label": "Длина", "value": "2000 мм"},
+      {"label": "Артикул", "value": "PU-MFC-030"}
+    ],
+    "fullDescription": "<p>Гибкий молдинг открывает новые возможности в дизайне интерьера, позволяя декорировать сложные криволинейные формы...</p>"
+  },
+  {
+    "id": "3d-panel-waves-large",
+    "category": "3D панели гипсовые",
+    "name": "3D Панель гипсовая \"Волны\", 500x500мм",
+    "price": "3 500",
+    "priceUnit": "тг / шт.",
+    "shortDescription": "Эффектная гипсовая 3D панель с рисунком 'Волны'. Создайте акцентную стену с уникальной текстурой.",
+    "mainImage": "products/3d-panels/3d-panel-waves-large/main.jpg",
+    "thumbnails": ["products/3d-panels/3d-panel-waves-large/main.jpg", "products/3d-panels/3d-panel-waves-large/thumb1.jpg"],
+    "imageAlts": ["3D Панель Волны - основной вид", "3D Панель Волны - в интерьере"],
+    "downloadLink3D": "https://docs.google.com/uc?export=download&id=ВАШ_ID_ФАЙЛА_3D_ПАНЕЛИ_1",
+    "characteristics": [
+      {"label": "Материал", "value": "Гипс"}, {"label": "Размер панели (ВхШ)", "value": "500х500 мм"},
+      {"label": "Толщина", "value": "15-30 мм"}, {"label": "Цвет", "value": "Белый (под покраску)"},
+      {"label": "Артикул", "value": "GYP-WAV-500"}
+    ],
+    "fullDescription": "<p>Гипсовые 3D панели 'Волны' - это современное решение для декорирования стен...</p>"
+  },
+  {
+    "id": "3d-panel-honeycomb-medium",
+    "category": "3D панели гипсовые",
+    "name": "3D Панель гипсовая \"Соты\", 400x400мм",
+    "price": "2 800",
+    "priceUnit": "тг / шт.",
+    "shortDescription": "Геометрическая 3D панель 'Соты' для создания стильных и современных акцентов.",
+    "mainImage": "products/3d-panels/3d-panel-honeycomb-medium/main.jpg",
+    "thumbnails": ["products/3d-panels/3d-panel-honeycomb-medium/main.jpg", "products/3d-panels/3d-panel-honeycomb-medium/thumb1.jpg"],
+    "imageAlts": ["3D Панель Соты - вид", "3D Панель Соты в интерьере"],
+    "downloadLink3D": "https://docs.google.com/uc?export=download&id=ВАШ_ID_ФАЙЛА_3D_ПАНЕЛИ_2",
+    "characteristics": [
+      {"label": "Материал", "value": "Высокопрочный гипс"}, {"label": "Размер панели (ВхШ)", "value": "400х400 мм"},
+      {"label": "Толщина рельефа", "value": "до 25 мм"}, {"label": "Цвет", "value": "Белый (под покраску)"},
+      {"label": "Артикул", "value": "GYP-HON-400"}
+    ],
+    "fullDescription": "<p>3D панели \"Соты\" привнесут в ваш интерьер строгость геометрии и оригинальность текстуры...</p>"
+  },
+    {
+    "id": "3d-panel-bricks-loft",
+    "category": "3D панели гипсовые",
+    "name": "3D Панель гипсовая \"Лофт Кирпич\", 600x300мм",
+    "price": "4 200",
+    "priceUnit": "тг / шт.",
+    "shortDescription": "Реалистичная имитация кирпичной кладки в стиле лофт. Легко монтируется, готова к покраске.",
+    "mainImage": "products/3d-panels/3d-panel-bricks-loft/main.jpg",
+    "thumbnails": ["products/3d-panels/3d-panel-bricks-loft/main.jpg", "products/3d-panels/3d-panel-bricks-loft/thumb1.jpg"],
+    "imageAlts": ["3D Панель Лофт Кирпич - вид", "3D Панель Лофт Кирпич, фрагмент"],
+    "downloadLink3D": "",
+    "characteristics": [
+      {"label": "Материал", "value": "Гипс армированный"}, {"label": "Размер панели (ВхШ)", "value": "600х300 мм"},
+      {"label": "Толщина панели", "value": "10-15 мм"}, {"label": "Цвет", "value": "Белый или серый (под покраску)"},
+      {"label": "Артикул", "value": "GYP-BRK-6030"}
+    ],
+    "fullDescription": "<p>Создайте атмосферу настоящего лофта с помощью 3D панелей \"Лофт Кирпич\"...</p>"
+  },
+  {
+    "id": "cornice-classic-elegant-100mm",
+    "category": "Потолочные карнизы",
+    "name": "Карниз потолочный \"Элегант Классик\", 100мм",
+    "price": "2 200",
+    "priceUnit": "тг / метр погонный",
+    "shortDescription": "Широкий и выразительный потолочный карниз \"Элегант Классик\" для роскошного вида потолка.",
+    "mainImage": "products/cornices/cornice-classic-elegant-100mm/main.jpg",
+    "thumbnails": ["products/cornices/cornice-classic-elegant-100mm/thumb1.jpg", "products/cornices/cornice-classic-elegant-100mm/thumb2.jpg"],
+    "imageAlts": ["Потолочный карниз Элегант Классик - вид", "Потолочный карниз Элегант Классик - деталь"],
+    "downloadLink3D": "",
+    "characteristics": [
+      {"label": "Материал", "value": "Дюрополимер"}, {"label": "Высота по стене", "value": "100 мм"},
+      {"label": "Ширина по потолку", "value": "95 мм"}, {"label": "Длина", "value": "2000 мм"},
+      {"label": "Артикул", "value": "DP-CCEL-100"}
+    ],
+    "fullDescription": "<p>Потолочный карниз \"Элегант Классик\" – это изысканный элемент декора, который скроет стык между стеной и потолком...</p>"
+  },
+  {
+    "id": "cornice-modern-minimal-80mm",
+    "category": "Потолочные карнизы",
+    "name": "Карниз потолочный \"Модерн Минимал\", 80мм",
+    "price": "1 900",
+    "priceUnit": "тг / метр погонный",
+    "shortDescription": "Лаконичный потолочный карниз с прямыми линиями для современных интерьеров.",
+    "mainImage": "products/cornices/cornice-modern-minimal-80mm/main.jpg",
+    "thumbnails": ["products/cornices/cornice-modern-minimal-80mm/main.jpg"],
+    "imageAlts": ["Потолочный карниз Модерн Минимал 80мм"],
+    "downloadLink3D": "https://docs.google.com/uc?export=download&id=ВАШ_ID_ФАЙЛА_КАРНИЗА_2",
+    "characteristics": [
+      {"label": "Материал", "value": "Полиуретан"}, {"label": "Высота по стене", "value": "80 мм"},
+      {"label": "Ширина по потолку", "value": "80 мм"}, {"label": "Длина", "value": "2000 мм"},
+      {"label": "Артикул", "value": "PU-CCMM-080"}
+    ],
+    "fullDescription": "<p>Карниз \"Модерн Минимал\" подчеркнет геометрию вашего пространства, не перегружая его деталями...</p>"
+  },
+  {
+    "id": "cornice-led-lighting-120mm",
+    "category": "Потолочные карнизы",
+    "name": "Карниз потолочный для LED подсветки, 120мм",
+    "price": "4 500",
+    "priceUnit": "тг / метр погонный",
+    "shortDescription": "Специальный карниз с нишей для установки светодиодной ленты. Создайте эффект парящего потолка.",
+    "mainImage": "products/cornices/cornice-led-lighting-120mm/main.jpg",
+    "thumbnails": ["products/cornices/cornice-led-lighting-120mm/main.jpg", "products/cornices/cornice-led-lighting-120mm/thumb1.jpg"],
+    "imageAlts": ["Карниз для LED подсветки - вид", "Карниз для LED подсветки с лентой"],
+    "downloadLink3D": "",
+    "characteristics": [
+      {"label": "Материал", "value": "Дюрополимер высокой плотности"}, {"label": "Высота общая", "value": "120 мм"},
+      {"label": "Ниша под ленту (ШхГ)", "value": "20мм х 15мм"}, {"label": "Длина", "value": "2000 мм"},
+      {"label": "Артикул", "value": "DP-CCLED-120"}
+    ],
+    "fullDescription": "<p>Карниз для скрытой LED подсветки – это тренд в современном дизайне, позволяющий создать уникальную атмосферу в помещении...</p>"
+  },
+  {
+    "id": "wooddi-panel-waves-decorative",
+    "category": "Стеновые панели",
+    "name": "Декоративная панель \"Волны Вдохновения\"",
+    "price": "12 500",
+    "priceUnit": "тг / шт (0.36 кв.м)",
+    "shortDescription": "Элегантная стеновая панель МДФ с объемным рисунком волн, придаст интерьеру динамику.",
+    "mainImage": "products/wall-panels/wooddi-panel-waves-decorative/main.jpg",
+    "thumbnails": ["products/wall-panels/wooddi-panel-waves-decorative/thumb1.jpg", "products/wall-panels/wooddi-panel-waves-decorative/thumb2.jpg"],
+    "imageAlts": ["Декоративная МДФ панель Волны Вдохновения", "Фрагмент панели Волны Вдохновения"],
+    "downloadLink3D": "",
+    "characteristics": [
+      {"label": "Материал", "value": "МДФ высокой плотности"}, {"label": "Размер (ВхШхТ)", "value": "600х600х18 мм"},
+      {"label": "Покрытие", "value": "Эмаль, матовая"}, {"label": "Стиль", "value": "Современный"},
+      {"label": "Артикул", "value": "MDF-WPW-6060"}
+    ],
+    "fullDescription": "<p>Декоративная панель \"Волны Вдохновения\" создана для тех, кто ценит уникальность и стиль в интерьере...</p>"
+  },
+  {
+    "id": "wooddi-panel-lines-geometric",
+    "category": "Стеновые панели",
+    "name": "Геометрическая 3D панель \"Ритм Линий\"",
+    "price": "14 000",
+    "priceUnit": "тг / шт (0.25 кв.м)",
+    "shortDescription": "Стильная панель с четким геометрическим рисунком из параллельных и пересекающихся линий.",
+    "mainImage": "products/wall-panels/wooddi-panel-lines-geometric/main.jpg",
+    "thumbnails": ["products/wall-panels/wooddi-panel-lines-geometric/thumb1.jpg"],
+    "imageAlts": ["Геометрическая 3D панель Ритм Линий"],
+    "downloadLink3D": "",
+    "characteristics": [
+      {"label": "Материал", "value": "Гипсополимер"}, {"label": "Размер (ВхШхТ)", "value": "500х500х25 мм"},
+      {"label": "Особенность", "value": "Под покраску"}, {"label": "Стиль", "value": "Минимализм, хай-тек"},
+      {"label": "Артикул", "value": "GPP-WPL-5050"}
+    ],
+    "fullDescription": "<p>Геометрическая 3D панель \"Ритм Линий\" позволяет играть со светом и тенью, создавая неповторимые визуальные эффекты...</p>"
+  },
+  {
+    "id": "wooddi-panel-slats-oak",
+    "category": "Стеновые панели",
+    "name": "Реечная панель \"Дуб Натуральный\"",
+    "price": "18 500",
+    "priceUnit": "тг / кв.м.",
+    "shortDescription": "Декоративные реечные панели из МДФ, шпонированные натуральным дубом. Создают уют и тепло.",
+    "mainImage": "products/wall-panels/wooddi-panel-slats-oak/main.jpg",
+    "thumbnails": ["products/wall-panels/wooddi-panel-slats-oak/thumb1.jpg"],
+    "imageAlts": ["Реечная панель Дуб Натуральный"],
+    "downloadLink3D": "",
+    "characteristics": [
+      {"label": "Материал", "value": "МДФ + шпон дуба"}, {"label": "Размер рейки (ШхГ)", "value": "40мм х 20мм (примерно)"},
+      {"label": "Длина панели", "value": "до 2700 мм"}, {"label": "Тип монтажа", "value": "Скрытый, на клей или каркас"},
+      {"label": "Артикул", "value": "MDF-SPO-N"}
+    ],
+    "fullDescription": "<p>Реечные панели \"Дуб Натуральный\" – это экологичное и эстетичное решение для отделки стен и потолков...</p>"
+  }
+]
